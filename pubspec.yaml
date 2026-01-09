@@ -1,7 +1,7 @@
 name: noor
 description: "Islamic API SDK"
 version: 0.0.1
-homepage: https://github.com/fathah/noor
+homepage: https://github.com/fathah/noor_flutter
 
 environment:
   sdk: ^3.10.1
